@@ -6,6 +6,9 @@
 
 もともとは、インベントリ調整のためにVR環境を離れる負担を減らす目的でSkyrim VR向けに開発しました。その後、同じ仕組みをSkyrim AE 1.6.1170でも実装・検証できたため、両方を対象としています。
 
+Note記事：
+https://note.com/thesdevtools/n/n5faf5963fcd3
+
 ## ダウンロード
 
 - [SIDT 0.9.0 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.0)
