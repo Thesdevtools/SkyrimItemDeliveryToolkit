@@ -8,6 +8,8 @@ SIDT was originally developed for Skyrim VR, where leaving the VR environment to
 
 NoteDescription：
 https://note.com/thesdevtools/n/n5faf5963fcd3
+Compatibility and Test Feedback Form:
+https://forms.gle/paj1QmafFpHBDHZU9
 
 ## Download
 
