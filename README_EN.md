@@ -6,6 +6,9 @@ Send selected items to loaded NPCs or the player while Skyrim is running—witho
 
 SIDT was originally developed for Skyrim VR, where leaving the VR environment to adjust an inventory is especially disruptive. After the same workflow was implemented and validated on Skyrim AE 1.6.1170, the project was expanded to support both runtimes.
 
+NoteDescription：
+https://note.com/thesdevtools/n/n5faf5963fcd3
+
 ## Download
 
 - [SIDT 0.9.0 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.0)
