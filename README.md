@@ -6,19 +6,25 @@
 
 もともとは、インベントリ調整のためにVR環境を離れる負担を減らす目的でSkyrim VR向けに開発しました。その後、同じ仕組みをSkyrim AE 1.6.1170でも実装・検証できたため、両方を対象としています。
 
-Note記事：
-https://note.com/thesdevtools/n/n5faf5963fcd3
-
-動作報告Googleフォーム：
-https://forms.gle/paj1QmafFpHBDHZU9
-
 ## ダウンロード
 
-- [SIDT 0.9.0 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.0)
-- 通常利用では、Release Assetsの `Skyrim-Item-Delivery-Toolkit-0.9.0.zip` をダウンロードしてください。
-- ソースコードは、同じReleaseに添付した `SkyrimItemDeliveryToolkit-0.9.0-src.zip` です。
+- [SIDT 0.9.8 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.8)
+- 通常利用では、Release Assetsの `Skyrim-Item-Delivery-Toolkit-0.9.8.zip` をダウンロードしてください。
+- ソースコードは、同じReleaseに添付した `Skyrim-Item-Delivery-Toolkit-0.9.8-src.zip` です。
 
 > GitHubが自動生成する `Source code (zip)` / `Source code (tar.gz)` は、この配布用リポジトリのメタデータだけを含みます。SIDTの対応ソースではありません。
+
+## インストール後のセキュリティ確認
+
+インストールまたは実行の前に、ダウンロードしたアーカイブを普段から信頼している
+セキュリティツールで確認してください。Release の SHA-256 は、ダウンロードした
+ファイルが公開した成果物と一致するかを確認するためのものです。ハッシュの一致だけで
+安全性が保証されるわけではありません。
+
+- **Windows 10/11:** アーカイブを右クリックし、必要であれば **その他のオプションを確認** を選んでから、**Microsoft Defender でスキャン** を実行します。
+- **VirusTotal:** アーカイブを [VirusTotal](https://www.virustotal.com/gui/home/upload) にアップロードし、結果を利用者自身で確認することもできます。
+
+第三者のスキャン結果に依存せず、利用するかどうかは利用者自身で判断してください。
 
 ## 仕組み
 
