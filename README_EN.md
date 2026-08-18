@@ -6,19 +6,26 @@ Send selected items to loaded NPCs or the player while Skyrim is running—witho
 
 SIDT was originally developed for Skyrim VR, where leaving the VR environment to adjust an inventory is especially disruptive. After the same workflow was implemented and validated on Skyrim AE 1.6.1170, the project was expanded to support both runtimes.
 
-NoteDescription：
-https://note.com/thesdevtools/n/n5faf5963fcd3
-
-Compatibility and Test Feedback Form:
-https://forms.gle/paj1QmafFpHBDHZU9
-
 ## Download
 
-- [SIDT 0.9.0 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.0)
-- For normal use, download `Skyrim-Item-Delivery-Toolkit-0.9.0.zip` from the release assets.
-- The corresponding source is `SkyrimItemDeliveryToolkit-0.9.0-src.zip` in the same release.
+- [SIDT 0.9.8 Release](https://github.com/Thesdevtools/SkyrimItemDeliveryToolkit/releases/tag/v0.9.8)
+- For normal use, download `Skyrim-Item-Delivery-Toolkit-0.9.8.zip` from the release assets.
+- The corresponding source is `Skyrim-Item-Delivery-Toolkit-0.9.8-src.zip` in the same release.
 
 > GitHub's automatically generated `Source code (zip)` and `Source code (tar.gz)` archives contain only this distribution repository's metadata. They are not the corresponding SIDT source package.
+
+## Security check after installation
+
+Before installing or running SIDT, check the downloaded archive with the
+security tools you normally trust. The SHA-256 value in the release notes lets
+you confirm that your download matches the published artifact. A matching hash
+does not, by itself, guarantee safety.
+
+- **Windows 10/11:** Right-click the archive, choose **Show more options** when shown, then choose **Scan with Microsoft Defender**.
+- **VirusTotal:** You may also upload the archive to [VirusTotal](https://www.virustotal.com/gui/home/upload) and review the result yourself.
+
+Do not rely solely on a third-party scan result; decide for yourself whether to
+use any downloaded binary.
 
 ## How it works
 
